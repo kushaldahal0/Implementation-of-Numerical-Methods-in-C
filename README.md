@@ -38,3 +38,12 @@
     6. Implement Cholesky Method
     7. Implement jacobi Method
     8. Implement Gauss Seidal Method
+### E.ODEs And PDEs
+    1. Solve ODE Using Taylors Series Method
+    2. Solve ODE Using Picard's Method
+    3. Solve ODE Using Euler's Method
+    4. Solve ODE Using Heun's Method
+    5. Solve ODE Using Runge-Kutta Method
+    6. Solve Boundry Value Problem Using Shooting Method
+    7. Solve PDE Using Laplace Equation
+    8. Solve PDE Using Poisson's Equation
