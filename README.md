@@ -29,4 +29,12 @@
     9. Implement Composite Simpson's 1/3 Rule
     10. Implement Simpson's 3/8 Rule
     11. Implement Composite Simpson's 3/8 Rule
-
+### D.Linear Equations
+    1. Implement Gauss Elimination Method
+    2. Implement Gauss Elimination Method With Partial Pivoting 
+    3. Implement Gauss Jordan Method
+    4. Implement Matrix Inverstion With Gauss Jordan Method
+    5. Implement Do-Little LU Decomposition
+    6. Implement Cholesky Method
+    7. Implement jacobi Method
+    8. Implement Gauss Seidal Method
